@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819041610265",
+    "firebase_url": "https://tedchatdemo2.firebaseio.com",
+    "project_id": "tedchatdemo2",
+    "storage_bucket": "tedchatdemo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819041610265:android:f68b543e3e0d9e7d0f1888",
+        "android_client_info": {
+          "package_name": "net.tedhome.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819041610265-b34qoqt8u8r5pakh17qnbre51rg33ecq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCQhtPhCUBwPWz5bpa7Bsh1vR2Lomr3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819041610265-b34qoqt8u8r5pakh17qnbre51rg33ecq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
